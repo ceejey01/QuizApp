@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="how_much">How much do you know about Nigeria?</string>
+    <string name="take_test">Take quiz now</string>
+    <string name="independence">When did Nigeria gain Independence?</string>
+    <string name="correct_Answer_1">1960</string>
+    <string name="wrong_Answer_1">1990</string>
+    <string name="finance">Who is the minster of finance?</string>
+    <string name="correct_Answer_2">Ngozi Iweala</string>
+    <string name="wrong_Answer_2">Kemi Adeosun</string>
+    <string name="vice_president">Who is the vice president?</string>
+    <string name="correct_Answer_3">Yemi Osinbanjo</string>
+    <string name="wrong_Answer_3">Yemi Osibande</string>
+    <string name="states">How many states are there?</string>
+    <string name="correct_Answer_4">36</string>
+    <string name="wrong_Answer_4">39</string>
+    <string name="president">Who is the president of Nigeria?</string>
+    <string name="correct_Answer_5">Ahmed Tinubu</string>
+    <string name="wrong_Answer_5">Mohammed Buhari</string>
+    <string name="order">submit</string>
+</resources>
